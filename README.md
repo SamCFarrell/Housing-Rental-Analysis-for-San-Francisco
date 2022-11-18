@@ -16,13 +16,13 @@ Remember to upload your Jupyter notebook for this assignment to your GitHub repo
 
 ### Files
 
-* [Houing Rental Analysis Starter Code](Starter_Code/san_francisco_housing.ipynb)
+* [Houing Rental Analysis Starter Code](san_francisco_housing.ipynb)
 
-* [`housing_per_year` CSV File](Starter_Code/Resources/housing_per_year.csv)
+* [`housing_per_year` CSV File](Resources/housing_per_year.csv)
 
-* [`neighborhoods_coordinates` CSV File](Starter_Code/Resources/neighborhoods_coordinates.csv)
+* [`neighborhoods_coordinates` CSV File](Resources/neighborhoods_coordinates.csv)
 
-* [`sfo_neighborhoods_census_data` CSV File](Starter_Code/Resources/sfo_neighborhoods_census_data.csv)
+* [`sfo_neighborhoods_census_data` CSV File](Resources/sfo_neighborhoods_census_data.csv)
 
 ---
 
